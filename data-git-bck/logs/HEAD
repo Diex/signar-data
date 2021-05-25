@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 4da88c81c3931aa3e5adbab38513643782ff78ed Diex <aboiledtiger@gmail.com> 1617751515 -0300	clone: from git@github.com:mkontogiannis/p5.js-es6.git
+4da88c81c3931aa3e5adbab38513643782ff78ed 27a283c06f56d80cdd40ad8ce55078fb16c821e4 Diex <aboiledtiger@gmail.com> 1618546124 -0300	commit: publish to firebase
+27a283c06f56d80cdd40ad8ce55078fb16c821e4 1441b25dcf5de763352725cb65105aaad689e78f Diex <aboiledtiger@gmail.com> 1618703341 -0300	commit: release: line continue
+1441b25dcf5de763352725cb65105aaad689e78f b9b41a81d860fd1d41e40f8cd0bb60a86731ec0f Diex <aboiledtiger@gmail.com> 1618708475 -0300	commit: random walk
+b9b41a81d860fd1d41e40f8cd0bb60a86731ec0f cdf083c6bd814b85fd9c57b0a688884e9ae18211 Diex <aboiledtiger@gmail.com> 1618708705 -0300	commit: universo infinito
+cdf083c6bd814b85fd9c57b0a688884e9ae18211 2ae6e9f23282d533b85006fb25c00c045c82c757 Diex <aboiledtiger@gmail.com> 1618960466 -0300	commit: tres
+2ae6e9f23282d533b85006fb25c00c045c82c757 2ae6e9f23282d533b85006fb25c00c045c82c757 Diex <aboiledtiger@gmail.com> 1618964244 -0300	checkout: moving from main to mapas
+2ae6e9f23282d533b85006fb25c00c045c82c757 0a39b86669f5141b135e44498433f38fba8eee9a Diex <aboiledtiger@gmail.com> 1618964273 -0300	commit: mapas 01
+0a39b86669f5141b135e44498433f38fba8eee9a 2ae6e9f23282d533b85006fb25c00c045c82c757 Diex <aboiledtiger@gmail.com> 1618964284 -0300	checkout: moving from mapas to main
+2ae6e9f23282d533b85006fb25c00c045c82c757 2ae6e9f23282d533b85006fb25c00c045c82c757 Diex <aboiledtiger@gmail.com> 1618964322 -0300	checkout: moving from main to walker
+2ae6e9f23282d533b85006fb25c00c045c82c757 0a39b86669f5141b135e44498433f38fba8eee9a Diex <aboiledtiger@gmail.com> 1618964330 -0300	checkout: moving from walker to mapas
+0a39b86669f5141b135e44498433f38fba8eee9a 0a39b86669f5141b135e44498433f38fba8eee9a Diex <aboiledtiger@gmail.com> 1618964817 -0300	checkout: moving from mapas to bio
+0a39b86669f5141b135e44498433f38fba8eee9a 64f093eaff560342ad3ca88b7d1ea8cfae3435f8 Diex <aboiledtiger@gmail.com> 1618964826 -0300	commit: bio
+64f093eaff560342ad3ca88b7d1ea8cfae3435f8 7e2af35b05c260fc03705d4ad08bea4969ada60e Diex <aboiledtiger@gmail.com> 1618965701 -0300	commit: fixed firebase
+7e2af35b05c260fc03705d4ad08bea4969ada60e 0a39b86669f5141b135e44498433f38fba8eee9a Diex <aboiledtiger@gmail.com> 1618965710 -0300	checkout: moving from bio to mapas
+0a39b86669f5141b135e44498433f38fba8eee9a 18ee13e22f68e36cd6bb50c3fd02c9f2e911cfae Diex <aboiledtiger@gmail.com> 1618968330 -0300	commit: scaneo del mapa
+18ee13e22f68e36cd6bb50c3fd02c9f2e911cfae 34286ce016d071ea4ffc0cc21df8274bf444f3da Diex <aboiledtiger@gmail.com> 1619394613 -0300	commit: refactor: clean up
+34286ce016d071ea4ffc0cc21df8274bf444f3da 57b076fd4dd98e9c35aad8bd681801b25f90eaf7 Diex <aboiledtiger@gmail.com> 1619394720 -0300	commit: refactor: clean up
+57b076fd4dd98e9c35aad8bd681801b25f90eaf7 b3f498687f587b5277a753a86d576764401d516c Diex <aboiledtiger@gmail.com> 1619570709 -0300	commit: randomalpha
+b3f498687f587b5277a753a86d576764401d516c a11911f8f315af2c26dfaa55ff121a4fa04a172e Diex <aboiledtiger@gmail.com> 1621957585 -0300	commit: release
+a11911f8f315af2c26dfaa55ff121a4fa04a172e 2ae6e9f23282d533b85006fb25c00c045c82c757 Diex <aboiledtiger@gmail.com> 1621957607 -0300	checkout: moving from mapas to main
+2ae6e9f23282d533b85006fb25c00c045c82c757 a11911f8f315af2c26dfaa55ff121a4fa04a172e Diex <aboiledtiger@gmail.com> 1621957611 -0300	merge mapas: Fast-forward
+a11911f8f315af2c26dfaa55ff121a4fa04a172e b15a77539ce1d95460cf43e75960d37abca50631 Diex <aboiledtiger@gmail.com> 1621957907 -0300	pull --allow-unrelated-histories: Merge made by the 'recursive' strategy.
